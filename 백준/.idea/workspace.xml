@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87959c0b-acb1-4bae-b962-532b02e3b18e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../swea/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swea/swea_1221.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swea/swea_2814.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swea/swea_3499.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swea/swea_3975.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swea/swea_5560_핀볼게임.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swea/swea_6057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swea/swea_7675.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ_15686_치킨배달.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200131/input_1206.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200131/input_1208.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200131/input_4828.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200131/input_4831.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200131/input_4834.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200131/input_4835.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200131/swea_1206.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200131/swea_1208.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200131/swea_4828.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200131/swea_4831.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200131/swea_4834.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200131/swea_4835.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200203/.idea/200203.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200203/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200203/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200203/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200203/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200203/example_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200203/input_1209.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200203/input_4836.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200203/input_4837.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200203/input_4839.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200203/input_4843.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200203/swea_1209.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200203/swea_4836.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200203/swea_4837.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200203/swea_4839.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200203/swea_4843.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200204/.idea/200204.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200204/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200204/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200204/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200204/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200204/input_screw.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200204/swea_screw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200205/.idea/200205.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200205/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200205/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200205/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200205/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200205/input_다이아몬드.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200205/input_단조증가.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200205/input_카드카운팅.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200205/input_파스칼.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200205/swea_다이아몬드.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200205/swea_단조증가.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200205/swea_카드카운팅.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200205/swea_파스칼.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200206/.idea/200206.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200206/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200206/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200206/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200206/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200206/input_ladder2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200206/input_세로.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200206/input_오셀로.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200206/input_파리퇴치.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200206/swea_Ladder2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200206/swea_세로.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200206/swea_오셀로.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200206/swea_파리퇴치.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200207/.idea/200207.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200207/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200207/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200207/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200207/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200207/input_2048.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200207/input_단어넣기.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200207/input_두개의숫자열.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200207/input_새로운연산.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200207/swea_2048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200207/swea_단어넣기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200207/swea_두개의숫자열.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200207/swea_새로운연산.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200210/.idea/200210.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200210/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200210/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200210/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200210/input_4861.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200210/input_4864.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200210/input_4865.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200210/swea_4861.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200210/swea_4864.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/200210/swea_4865.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../알고리즘 과제/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1216_swea.py" beforeDir="false" afterPath="$PROJECT_DIR$/../swea/swea_1216.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOJ_10163.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_10163.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOJ_1244.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_1244.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOJ_14499.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_14499.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOJ_14502.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_14502.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOJ_14503.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_14503.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOJ_2178.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_2178.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOJ_2178_ver2.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_2178_ver2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOJ_2309.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_2309.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOJ_2578.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_2578.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOJ_2583.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_2583.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOJ_2589.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_2589.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOJ_2606.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_2606.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOJ_2615.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_2615.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOJ_2615_ver2.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_2615_ver2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOJ_2628.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_2628.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOJ_2667.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_2667.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOJ_2758.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_2758.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOJ_2758_ver2.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_2758_ver2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOJ_7576.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_7576.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boj_12100.py" beforeDir="false" afterPath="$PROJECT_DIR$/boj_12100.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea_1219.py" beforeDir="false" afterPath="$PROJECT_DIR$/../swea/swea_1219.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea_1220.py" beforeDir="false" afterPath="$PROJECT_DIR$/../swea/swea_1220.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea_1493.py" beforeDir="false" afterPath="$PROJECT_DIR$/../swea/swea_1493.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea_1860.py" beforeDir="false" afterPath="$PROJECT_DIR$/../swea/swea_1860.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea_4012.py" beforeDir="false" afterPath="$PROJECT_DIR$/../swea/swea_4012.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2053267491">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="3147" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="3147" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BOJ_15686_치킨배달.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <marker date="1582001726598" expanded="true" signature="46:51" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BOJ_15686_치킨배달.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="백준" type="b2602c69:ProjectViewProjectNode" />
+              <item name="백준" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="BOJ_15686_치킨배달" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="백준" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_15686_치킨배달.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.BOJ_15686_치킨배달" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87959c0b-acb1-4bae-b962-532b02e3b18e" name="Default Changelist" comment="" />
+      <created>1581987040924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581987040924</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BOJ_15686_치킨배달.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <marker date="1582001726598" expanded="true" signature="46:51" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
