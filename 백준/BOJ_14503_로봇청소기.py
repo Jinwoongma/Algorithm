@@ -1,36 +1,35 @@
-row, col = map(int, input().split())
-y, x, dir = map(int, input().split())
-data = [list(map(int, input().split())) for _ in range(row)]
-dx = [0, 1, 0, -1]  # 북 동 남 서
-dy = [-1, 0, 1, 0]
-
-def left_dir(dir):
+def turnLeft(dir):
     if dir == 0: return 3
     elif dir == 1: return 0
     elif dir == 2: return 1
     else: return 2
 
-def dfs(y, x, dir):
-    global count
-    if data[y][x] == 1:
-        return
-    if data[y][x] == 0:
-        data[y][x] = 2
-        count += 1
+N, M = map(int, input().split())
+y, x, dir = map(int, input().split())
 
+dy = [-1, 0, 1, 0]
+dx = [0, 1, 0, -1]
+MAP = [list(map(int, input().split())) for _ in range(N)]
+MAP[y][x] = -1
+count = 1
+
+while True:
     for i in range(4):
-        dir = left_dir(dir)
+        dir = turnLeft(dir)
         ty, tx = y + dy[dir], x + dx[dir]
-        if data[ty][tx] == 0:
-            dfs(ty, tx, dir)
-            return
+        if MAP[ty][tx] == 0:
+            count += 1
+            MAP[ty][tx] = -1
+            y, x = ty, tx
+            break
+    else:
+        ty, tx = y - dy[dir], x - dx[dir]
+        if MAP[ty][tx] == 1:
+            break
+        else:
+            y, x = ty, tx
 
-    ty, tx = y - dy[dir], x - dx[dir]
-    dfs(ty, tx, dir)
-
-count = 0
-dfs(y, x, dir)
 print(count)
-# for i in range(row):
-#     print(data[i])
+# for i in range(M):
+#     print(MAP[i])
 # print()
