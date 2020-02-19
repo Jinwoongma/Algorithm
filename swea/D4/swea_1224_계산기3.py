@@ -55,15 +55,11 @@ for tc in range(1, 12):
 
         else: after.append(int(formular[i]))
 
-        # after += S
-        # print(S)
-        # print(after)
-    print(after)
+
     S = []
     result = 0
     for i in range(len(after)):
-        print(i)
-        if after[i] in '+-*/':
+        if str(after[i]) in '+-*/':
             if len(S) < 2:
                 print('#{} error'.format(tc + 1))
                 break
@@ -74,9 +70,6 @@ for tc in range(1, 12):
             elif after[i] == '*': result = int(num1) * int(num2)
             elif after[i] == '/': result = int(num1) // int(num2)
             S.append(result)
-        elif after[i] == '.':
-            if len(S) >= 2:
-                print('#{} error'.format(tc + 1))
-            else:
-                print('#{} {}'.format(tc + 1, S[0]))
         else: S.append(after[i])
+
+    print('#{} {}'.format(tc + 1, result))
