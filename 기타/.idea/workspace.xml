@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bcbc505-4a80-4f40-820a-80ab8b3d1b9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../swea/모의 테스트/swea_1767_프로세서연결하기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/중복순열.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/중복없는순열_backtrack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백준/BOJ_14502_연구소_ver2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swea/D2/swea_4874_Forth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swea/D2/swea_4881_배열최소합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swea/D4/swea_1224_계산기3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../swea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../swea/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../백준/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/D3/swea_1220_Magnetic.py" beforeDir="false" afterPath="$PROJECT_DIR$/../swea/D3/swea_1220_Magnetic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/중복없는순열_backtrack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="114">
+              <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
               <folding>
                 <marker date="1582089290563" expanded="true" signature="117:122" ph="..." />
               </folding>
@@ -93,7 +92,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -225,7 +224,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -260,8 +259,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/중복없는순열_backtrack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="114">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
           <folding>
             <marker date="1582089290563" expanded="true" signature="117:122" ph="..." />
           </folding>
