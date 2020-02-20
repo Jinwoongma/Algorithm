@@ -2,21 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87959c0b-acb1-4bae-b962-532b02e3b18e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../swea/D2/swea_4875_미로.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swea/D2/swea_4880_토너먼트카드게임.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../기타/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../기타/분할정복.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ_17136_색종이붙이기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../swea/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../swea/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../swea/.idea/swea.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../swea/.idea/swea.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ_10026_적록색약.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ_1012_유기농배추.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ_1325_효율적인해킹.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ_14501_퇴사.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../swea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../swea/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../swea/D4/swea_1224_계산기3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../swea/D4/swea_1224_계산기3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../기타/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../기타/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../기타/.idea/기타.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../기타/.idea/기타.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/백준.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/백준.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_17136_색종이붙이기_풀이중.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,42 +20,64 @@
     <session id="-697540976">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="2" />
+          <entry key="py" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="2" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1385" />
+          <entry key="py" value="5483" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1385" />
+          <entry key="Python" value="5483" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BOJ_17136_색종이붙이기.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+            <state relative-caret-position="266">
+              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
               <folding>
                 <marker date="1582162321026" expanded="true" signature="564:1033" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BOJ_1325_효율적인해킹.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+              <folding>
+                <marker date="1582186852251" expanded="true" signature="32:488" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BOJ_14501_퇴사.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -84,12 +98,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/BOJ_17136_색종이붙이기_풀이중.py" />
+        <option value="$PROJECT_DIR$/BOJ_17070_파이프옮기기.py" />
+        <option value="$PROJECT_DIR$/BOJ_10026_적록색약.py" />
+        <option value="$PROJECT_DIR$/BOJ_1012_유기농배추.py" />
+        <option value="$PROJECT_DIR$/BOJ_1325_효율적인해킹.py" />
+        <option value="$PROJECT_DIR$/BOJ_14501_퇴사.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
+    <option name="x" value="954" />
+    <option name="width" value="973" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectId" id="1Y1qh5GBEZFJFcoU4CDcy6mW9Tn" />
@@ -162,8 +181,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BOJ_17136_색종이붙이기_풀이중">
-    <configuration name="BOJ_14502_연구소_ver2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.BOJ_14501_퇴사">
+    <configuration name="BOJ_10026_적록색약" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="백준" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,7 +194,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_14502_연구소_ver2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_10026_적록색약.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +203,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_17136_색종이붙이기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ_1012_유기농배추" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="백준" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,7 +215,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_17136_색종이붙이기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_1012_유기농배추.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,7 +224,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_17136_색종이붙이기_풀이중" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="BOJ_1325_효율적인해킹" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="백준" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,7 +236,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\multicampus\algorithm\github\백준\BOJ_17136_색종이붙이기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_1325_효율적인해킹.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,7 +245,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_17471_게리맨더링_ver2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="BOJ_14501_퇴사" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="백준" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,7 +257,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_17471_게리맨더링_ver2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_14501_퇴사.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,19 +266,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="swea_1224_계산기3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ_17070_파이프옮기기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="백준" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\USER\PycharmProjects\untitled\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../swea/D4" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../swea/D4/swea_1224_계산기3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_17070_파이프옮기기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -269,19 +288,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.BOJ_17471_게리맨더링_ver2" />
-      <item itemvalue="Python.BOJ_14502_연구소_ver2" />
-      <item itemvalue="Python.swea_1224_계산기3" />
-      <item itemvalue="Python.BOJ_17136_색종이붙이기" />
-      <item itemvalue="Python.BOJ_17136_색종이붙이기_풀이중" />
+      <item itemvalue="Python.BOJ_17070_파이프옮기기" />
+      <item itemvalue="Python.BOJ_10026_적록색약" />
+      <item itemvalue="Python.BOJ_1012_유기농배추" />
+      <item itemvalue="Python.BOJ_1325_효율적인해킹" />
+      <item itemvalue="Python.BOJ_14501_퇴사" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.BOJ_17136_색종이붙이기_풀이중" />
-        <item itemvalue="Python.BOJ_17136_색종이붙이기" />
-        <item itemvalue="Python.swea_1224_계산기3" />
-        <item itemvalue="Python.BOJ_14502_연구소_ver2" />
-        <item itemvalue="Python.BOJ_17471_게리맨더링_ver2" />
+        <item itemvalue="Python.BOJ_14501_퇴사" />
+        <item itemvalue="Python.BOJ_1325_효율적인해킹" />
+        <item itemvalue="Python.BOJ_1012_유기농배추" />
+        <item itemvalue="Python.BOJ_10026_적록색약" />
+        <item itemvalue="Python.BOJ_17070_파이프옮기기" />
       </list>
     </recent_temporary>
   </component>
@@ -310,12 +329,21 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="954" y="0" width="973" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2502674" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Python Console" order="1" />
@@ -326,8 +354,8 @@
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.32894737" />
-      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.32894737" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32894737" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -374,13 +402,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BOJ_17136_색종이붙이기.py">
+    <entry file="file://$PROJECT_DIR$/BOJ_17070_파이프옮기기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="57" lean-forward="true" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOJ_17070_파이프옮기기_dfs_시간초과.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+          <caret line="16" column="64" lean-forward="true" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOJ_1012_유기농배추.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <marker date="1582182543850" expanded="true" signature="45:315" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOJ_10026_적록색약.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <marker date="1582179708457" expanded="true" signature="63:207" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOJ_17136_색종이붙이기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
           <folding>
             <marker date="1582162321026" expanded="true" signature="564:1033" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOJ_1325_효율적인해킹.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <marker date="1582186852251" expanded="true" signature="32:488" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOJ_14501_퇴사.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
         </state>
       </provider>
     </entry>

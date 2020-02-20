@@ -2,21 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2293606-ffcc-49d2-befb-900d73106678" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/D2/swea_4875_미로.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/D2/swea_4880_토너먼트카드게임.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../기타/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../기타/분할정복.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백준/BOJ_17136_색종이붙이기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/swea.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/swea.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../백준/BOJ_10026_적록색약.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../백준/BOJ_1012_유기농배추.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../백준/BOJ_1325_효율적인해킹.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../백준/BOJ_14501_퇴사.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D4/swea_1224_계산기3.py" beforeDir="false" afterPath="$PROJECT_DIR$/D4/swea_1224_계산기3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../기타/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../기타/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../기타/.idea/기타.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../기타/.idea/기타.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../백준/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../백준/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../백준/.idea/백준.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/.idea/백준.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../백준/BOJ_17136_색종이붙이기_풀이중.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,12 +28,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="5" />
+          <entry key="py" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="5" />
+          <entry key="Python" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -74,17 +66,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/D2/swea_4875_미로.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            <state relative-caret-position="171">
+              <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/D2/swea_4881_배열최소합.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/D4/swea_1224_계산기3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="19">
+              <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -110,7 +111,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -339,7 +340,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -426,17 +427,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D2/swea_4875_미로.py">
+    <entry file="file://$PROJECT_DIR$/D4/swea_1224_계산기3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        <state relative-caret-position="19">
+          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/D4/swea_1224_계산기3.py">
+    <entry file="file://$PROJECT_DIR$/D2/swea_4875_미로.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="171">
+          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D2/swea_4881_배열최소합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
         </state>
       </provider>
     </entry>
