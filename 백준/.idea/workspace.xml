@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87959c0b-acb1-4bae-b962-532b02e3b18e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BOJ_14501_퇴사_DP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ_7569_토마토.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ_2206_벽부수고이동하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ_2660_회장뽑기_플로이드와샬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ_5427_불.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../swea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../swea/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/백준.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/백준.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_14501_퇴사.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,20 +28,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1Y1qh5GBEZFJFcoU4CDcy6mW9Tn" />
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State />
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>Buildout</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -51,7 +36,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../swea" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -67,70 +53,7 @@
       <recent name="C:\Users\USER\Desktop\A를 향해\백준" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.BOJ_7569_토마토">
-    <configuration name="BOJ_10026_적록색약" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="백준" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_10026_적록색약.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BOJ_1012_유기농배추" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="백준" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_1012_유기농배추.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BOJ_1325_효율적인해킹" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="백준" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_1325_효율적인해킹.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.BOJ_5427_불">
     <configuration name="BOJ_14501_퇴사" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="백준" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,6 +67,69 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\USER\Desktop\A를 향해\백준\BOJ_14501_퇴사_DP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BOJ_2206_벽부수고이동하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="백준" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_2206_벽부수고이동하기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BOJ_2660_회장뽑기_플로이드와샬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="백준" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\USER\Desktop\A를 향해\백준\BOJ_2660_회장뽑기_플로이드와샬.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BOJ_5427_불" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="백준" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_5427_불.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,19 +160,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.BOJ_10026_적록색약" />
-      <item itemvalue="Python.BOJ_1012_유기농배추" />
-      <item itemvalue="Python.BOJ_1325_효율적인해킹" />
       <item itemvalue="Python.BOJ_14501_퇴사" />
+      <item itemvalue="Python.BOJ_2660_회장뽑기_플로이드와샬" />
       <item itemvalue="Python.BOJ_7569_토마토" />
+      <item itemvalue="Python.BOJ_2206_벽부수고이동하기" />
+      <item itemvalue="Python.BOJ_5427_불" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ_5427_불" />
+        <item itemvalue="Python.BOJ_2206_벽부수고이동하기" />
+        <item itemvalue="Python.BOJ_2660_회장뽑기_플로이드와샬" />
         <item itemvalue="Python.BOJ_7569_토마토" />
         <item itemvalue="Python.BOJ_14501_퇴사" />
-        <item itemvalue="Python.BOJ_1325_효율적인해킹" />
-        <item itemvalue="Python.BOJ_1012_유기농배추" />
-        <item itemvalue="Python.BOJ_10026_적록색약" />
       </list>
     </recent_temporary>
   </component>
@@ -216,33 +202,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="892" y="285" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1582265660697">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="892" y="285" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1582265660697" />
     <state x="870" y="18" key="#swea_1224_계산기3" timestamp="1582111908608">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="870" y="18" key="#swea_1224_계산기3/0.0.1536.824@0.0.1536.824" timestamp="1582111908608" />
-    <state x="933" y="171" key="FileChooserDialogImpl" timestamp="1582254377046">
+    <state x="933" y="171" key="FileChooserDialogImpl" timestamp="1582265658833">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="933" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582254377046" />
-    <state width="746" height="201" key="GridCell.Tab.0.bottom" timestamp="1582260989191">
+    <state x="933" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582265658833" />
+    <state width="746" height="185" key="GridCell.Tab.0.bottom" timestamp="1582290810107">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="201" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582260989191" />
-    <state width="746" height="201" key="GridCell.Tab.0.center" timestamp="1582260989191">
+    <state width="746" height="185" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582290810107" />
+    <state width="746" height="185" key="GridCell.Tab.0.center" timestamp="1582290810107">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="201" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582260989191" />
-    <state width="746" height="201" key="GridCell.Tab.0.left" timestamp="1582260989191">
+    <state width="746" height="185" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582290810107" />
+    <state width="746" height="185" key="GridCell.Tab.0.left" timestamp="1582290810106">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="201" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582260989191" />
-    <state width="746" height="201" key="GridCell.Tab.0.right" timestamp="1582260989191">
+    <state width="746" height="185" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582290810106" />
+    <state width="746" height="185" key="GridCell.Tab.0.right" timestamp="1582290810107">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="201" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582260989191" />
-    <state x="555" y="55" key="SettingsEditor" timestamp="1582257532721">
+    <state width="746" height="185" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582290810107" />
+    <state x="555" y="55" key="SettingsEditor" timestamp="1582265766851">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="555" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582257532721" />
+    <state x="555" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582265766851" />
   </component>
 </project>
