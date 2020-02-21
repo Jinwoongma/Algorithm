@@ -2,95 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2293606-ffcc-49d2-befb-900d73106678" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../백준/BOJ_10026_적록색약.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백준/BOJ_1012_유기농배추.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백준/BOJ_1325_효율적인해킹.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백준/BOJ_14501_퇴사.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../백준/BOJ_14501_퇴사_DP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../백준/BOJ_7569_토마토.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../기타/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../기타/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../백준/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준/.idea/백준.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/.idea/백준.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준/BOJ_14501_퇴사.py" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1310744664">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="1545" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="1545" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/D2/swea_4880_토너먼트카드게임.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-              <folding>
-                <marker date="1582166171754" expanded="true" signature="22:442" ph="..." />
-                <marker date="1582166171754" expanded="true" signature="464:605" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/D2/swea_4875_미로.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/D2/swea_4881_배열최소합.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/D4/swea_1224_계산기3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -101,15 +24,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/D2/swea_4880_토너먼트카드게임.py" />
-        <option value="$PROJECT_DIR$/D2/swea_4875_미로.py" />
-        <option value="$PROJECT_DIR$/D4/swea_1224_계산기3.py" />
-      </list>
-    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="953" />
@@ -132,35 +46,6 @@
     </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="swea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="swea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swea" type="462c0819:PsiDirectoryNode" />
-              <item name="D2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="swea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="swea" type="462c0819:PsiDirectoryNode" />
-              <item name="D4" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -178,18 +63,6 @@
       <recent name="C:\Users\multicampus\algorithm\github\swea\모의 테스트" />
       <recent name="C:\Users\multicampus\TIL\git\swea" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.swea_1224_계산기3">
     <configuration name="swea_1224_계산기3" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -298,11 +171,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.swea_1767_프로세서연결하기" />
-      <item itemvalue="Python.swea_4881_배열최소합" />
       <item itemvalue="Python.swea_1224_계산기3" />
-      <item itemvalue="Python.swea_4880_토너먼트카드게임" />
+      <item itemvalue="Python.swea_1767_프로세서연결하기" />
       <item itemvalue="Python.swea_4875_미로" />
+      <item itemvalue="Python.swea_4880_토너먼트카드게임" />
+      <item itemvalue="Python.swea_4881_배열최소합" />
     </list>
     <recent_temporary>
       <list>
@@ -338,32 +211,6 @@
       <updated>1581309565322</updated>
     </task>
     <servers />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="1" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32894737" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="WindowStateProjectService">
     <state x="883" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582112317404">
@@ -410,44 +257,6 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="555" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582112305955" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../백준/BOJ_17144_미세먼지안녕.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../백준/BOJ_17136_색종이붙이기_풀이중.py" />
-    <entry file="file://$PROJECT_DIR$/D2/swea_4880_토너먼트카드게임.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-          <folding>
-            <marker date="1582166171754" expanded="true" signature="22:442" ph="..." />
-            <marker date="1582166171754" expanded="true" signature="464:605" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D4/swea_1224_계산기3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D2/swea_4875_미로.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/D2/swea_4881_배열최소합.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
