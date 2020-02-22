@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87959c0b-acb1-4bae-b962-532b02e3b18e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BOJ_15649_N과M1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ_15650_N과M2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ_15651_N과M3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ_15652_N과M4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ_15654_N과M5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ_15655_N과M6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ_15656_N과M7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ_15657_N과M8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ_15663_N과M9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ_15664_N과M10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ_15665_N과M11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/N과M12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ_1726_로봇.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ_2479_경로찾기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,49 +50,7 @@
       <recent name="C:\Users\USER\Desktop\A를 향해\백준" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.N과M12">
-    <configuration name="BOJ_15657_N과M8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="백준" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_15657_N과M8.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BOJ_15663_N과M9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="백준" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_15663_N과M9.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.BOJ_1726_로봇">
     <configuration name="BOJ_15664_N과M10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="백준" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,6 +93,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="BOJ_1726_로봇" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="백준" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_1726_로봇.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BOJ_2479_경로찾기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="백준" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_2479_경로찾기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="N과M12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="백준" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,19 +157,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.BOJ_15657_N과M8" />
-      <item itemvalue="Python.BOJ_15663_N과M9" />
       <item itemvalue="Python.BOJ_15664_N과M10" />
       <item itemvalue="Python.BOJ_15665_N과M11" />
       <item itemvalue="Python.N과M12" />
+      <item itemvalue="Python.BOJ_2479_경로찾기" />
+      <item itemvalue="Python.BOJ_1726_로봇" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ_1726_로봇" />
+        <item itemvalue="Python.BOJ_2479_경로찾기" />
         <item itemvalue="Python.N과M12" />
         <item itemvalue="Python.BOJ_15665_N과M11" />
         <item itemvalue="Python.BOJ_15664_N과M10" />
-        <item itemvalue="Python.BOJ_15663_N과M9" />
-        <item itemvalue="Python.BOJ_15657_N과M8" />
       </list>
     </recent_temporary>
   </component>
@@ -221,22 +211,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="933" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582265658833" />
-    <state width="746" height="236" key="GridCell.Tab.0.bottom" timestamp="1582357232187">
+    <state width="749" height="142" key="GridCell.Tab.0.bottom" timestamp="1582376024527">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="236" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582357232187" />
-    <state width="746" height="236" key="GridCell.Tab.0.center" timestamp="1582357232187">
+    <state width="749" height="142" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582376024527" />
+    <state width="749" height="142" key="GridCell.Tab.0.center" timestamp="1582376024526">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="236" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582357232187" />
-    <state width="746" height="236" key="GridCell.Tab.0.left" timestamp="1582357232187">
+    <state width="749" height="142" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582376024526" />
+    <state width="749" height="142" key="GridCell.Tab.0.left" timestamp="1582376024526">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="236" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582357232187" />
-    <state width="746" height="236" key="GridCell.Tab.0.right" timestamp="1582357232187">
+    <state width="749" height="142" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582376024526" />
+    <state width="749" height="142" key="GridCell.Tab.0.right" timestamp="1582376024527">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="236" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582357232187" />
+    <state width="749" height="142" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582376024527" />
     <state x="555" y="55" key="SettingsEditor" timestamp="1582265766851">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
