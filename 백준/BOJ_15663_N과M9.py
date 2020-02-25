@@ -16,7 +16,6 @@ def combi(index):
 N, M = map(int, input().split())
 num = sorted(list(map(int, input().split())))
 visited = [False for _ in range(N)]
-check = [False for _ in range(100001)]
 arr = []
 result = []
 combi(0)

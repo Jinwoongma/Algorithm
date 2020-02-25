@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87959c0b-acb1-4bae-b962-532b02e3b18e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BOJ_1248_맞춰봐.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ_14889_스타트와링크.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ_14889_스타트와링크_백트래킹.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ_1987_알파벳.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ_2580_스도쿠.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ_9663_NQueen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ_14391_종이조각_풀이중.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ_5014_스타트링크.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_2529_부등호.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_2529_부등호.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BOJ_2580_스도쿠_풀이중.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ_15663_N과M9.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_15663_N과M9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +53,7 @@
       <recent name="C:\Users\USER\Desktop\A를 향해\백준" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.BOJ_1987_알파벳">
+  <component name="RunManager" selected="Python.BOJ_5014_스타트링크">
     <configuration name="BOJ_1107_리모컨_강의코드" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="백준" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_1248_맞춰봐" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ_14391_종이조각_풀이중" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="백준" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +108,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_1248_맞춰봐.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\USER\Desktop\A를 향해\백준\BOJ_14391_종이조각_풀이중.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_2580_스도쿠" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ_5014_스타트링크" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="백준" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,7 +171,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\USER\Desktop\A를 향해\백준\BOJ_2580_스도쿠.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_5014_스타트링크.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_9663_NQueen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="백준" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,7 +192,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_9663_NQueen.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,19 +202,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.BOJ_1248_맞춰봐" />
-      <item itemvalue="Python.BOJ_9663_NQueen" />
-      <item itemvalue="Python.BOJ_2580_스도쿠_풀이중" />
       <item itemvalue="Python.BOJ_2580_스도쿠 (1)" />
       <item itemvalue="Python.BOJ_1987_알파벳" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.BOJ_14391_종이조각_풀이중" />
+      <item itemvalue="Python.BOJ_5014_스타트링크" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ_5014_스타트링크" />
+        <item itemvalue="Python.BOJ_14391_종이조각_풀이중" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.BOJ_1987_알파벳" />
         <item itemvalue="Python.BOJ_2580_스도쿠 (1)" />
-        <item itemvalue="Python.BOJ_2580_스도쿠_풀이중" />
-        <item itemvalue="Python.BOJ_9663_NQueen" />
-        <item itemvalue="Python.BOJ_1248_맞춰봐" />
       </list>
     </recent_temporary>
   </component>
@@ -260,22 +256,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="933" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582265658833" />
-    <state width="725" height="194" key="GridCell.Tab.0.bottom" timestamp="1582633262616">
+    <state width="725" height="194" key="GridCell.Tab.0.bottom" timestamp="1582641494531">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="725" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582633262616" />
-    <state width="725" height="194" key="GridCell.Tab.0.center" timestamp="1582633262616">
+    <state width="725" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582641494531" />
+    <state width="725" height="194" key="GridCell.Tab.0.center" timestamp="1582641494530">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="725" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582633262616" />
-    <state width="725" height="194" key="GridCell.Tab.0.left" timestamp="1582633262616">
+    <state width="725" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582641494530" />
+    <state width="725" height="194" key="GridCell.Tab.0.left" timestamp="1582641494530">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="725" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582633262616" />
-    <state width="725" height="194" key="GridCell.Tab.0.right" timestamp="1582633262616">
+    <state width="725" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582641494530" />
+    <state width="725" height="194" key="GridCell.Tab.0.right" timestamp="1582641494530">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="725" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582633262616" />
+    <state width="725" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582641494530" />
     <state x="555" y="55" key="SettingsEditor" timestamp="1582517905565">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
