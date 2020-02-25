@@ -19,7 +19,6 @@ def combi(index):
                 min_value = temp
                 result[1] = temp2
         return
-
     for i in range(10):
         if not visited[i]:
             visited[i] = True
