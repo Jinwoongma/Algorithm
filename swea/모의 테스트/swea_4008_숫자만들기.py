@@ -8,7 +8,6 @@ def dfs(index, arr, s):
         max_sum = max(max_sum, ret)
         min_sum = min(min_sum, ret)
         return
-
     for i in range(4):
         if s[i] == 0: continue
         s[i] -= 1
