@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2293606-ffcc-49d2-befb-900d73106678" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../백준/BOJ_16236_아기상어.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백준/BOJ_17143_낚시왕.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../백준/BOJ_17140_이차원배열과연산.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../백준/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준/BOJ_17143_낚시왕.py" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/BOJ_17143_낚시왕.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

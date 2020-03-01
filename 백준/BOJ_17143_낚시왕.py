@@ -21,6 +21,10 @@ for c in range(1, C + 1):
         for j in range(1, C + 1):
             if MAP[i][j] != 0:
                 s, d = MAP[i][j][0], MAP[i][j][1]
+                if d == 1 or d == 2:
+                    s = s % ((R - 1) * 2)
+                elif d ==3 or d == 4:
+                    s = s % ((C - 1) * 2)
                 ty, tx = i, j
                 for k in range(s):
                     ty += dy[d]
