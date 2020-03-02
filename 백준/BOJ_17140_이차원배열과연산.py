@@ -34,15 +34,16 @@ while True:
             temp.sort(key=lambda x: (x[1], x[0]))
             entire.append(temp)
 
-        new_data = []
+        new_data = [[0 for _ in range(max_length * 2)] for _ in range(row)]
         for i in range(len(entire)):
             diff = max_length - len(entire[i])
             temp = []
             for j in range(len(entire[i])):
-                temp += [entire[i][j][0], entire[i][j][1]]
-            for j in range(diff):
-                temp += [0, 0]
-            new_data.append(temp)
+                if j * 2 <= 100:
+                    new_data[i][j * 2] = entire[i][j][0]
+                if j * 2 + 1 <= 100:
+                    new_data[i][j * 2 + 1] = entire[i][j][1]
+
         col = max_length * 2
         data = new_data
 
@@ -58,9 +59,10 @@ while True:
                 if data[j][i] == 0: continue
                 if data[j][i] not in count:
                     count[data[j][i]] = 1
+                    length += 1
                 else:
                     count[data[j][i]] += 1
-                length += 1
+
             max_length = max(max_length, length)
 
             for key, val in count.items():
@@ -80,5 +82,4 @@ while True:
         row = max_length * 2
         data = new_data
 
-    print(len(data), len(data[0]))
     time += 1
