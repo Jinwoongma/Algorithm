@@ -55,7 +55,7 @@ for i in range(len(arr)):
             if flag and temp[r][c] == 1:
                 flag = False
                 break
-                
+
     score = [0] * 5
     for r in range(1, N + 1):
         for c in range(1, N + 1):
