@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2293606-ffcc-49d2-befb-900d73106678" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/D4/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/D4/swea_1861_정사각형방.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/모의 테스트/swea_1953_탈주범검거.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D4/swea_1861_정사각형방_DP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../백준/BOJ_17837_새로운게임2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/모의 테스트/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/모의 테스트/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D4/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D4/swea_1861_정사각형방.py" beforeDir="false" afterPath="$PROJECT_DIR$/D4/swea_1861_정사각형방_bfs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../백준/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../백준/BOJ_10711_모래성_풀이중.py" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/BOJ_10711_모래성_풀이중.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../백준/BOJ_17779_게리멘더링2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/BOJ_17779_게리멘더링2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +58,8 @@
       <recent name="C:\Users\multicampus\algorithm\github\swea\모의 테스트" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.swea_1861_정사각형방">
-    <configuration name="swea_1486_장훈이의높은선반" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.swea_1861_정사각형방_DP">
+    <configuration name="swea_1861_정사각형방_DP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,7 +71,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D4/swea_1486_장훈이의높은선반.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D4/swea_1861_정사각형방_DP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="swea_1861_정사각형방" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="swea_1861_정사각형방_bfs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,7 +92,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D4/swea_1861_정사각형방.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\USER\Desktop\A를 향해\swea\D4\swea_1861_정사각형방_bfs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,19 +165,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.swea_1486_장훈이의높은선반" />
       <item itemvalue="Python.swea_1952_수영장" />
       <item itemvalue="Python.swea_5658_보물상자비밀번호" />
       <item itemvalue="Python.swea_1953_탈주범검거" />
-      <item itemvalue="Python.swea_1861_정사각형방" />
+      <item itemvalue="Python.swea_1861_정사각형방_bfs" />
+      <item itemvalue="Python.swea_1861_정사각형방_DP" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.swea_1861_정사각형방" />
+        <item itemvalue="Python.swea_1861_정사각형방_DP" />
+        <item itemvalue="Python.swea_1861_정사각형방_bfs" />
         <item itemvalue="Python.swea_1953_탈주범검거" />
         <item itemvalue="Python.swea_5658_보물상자비밀번호" />
         <item itemvalue="Python.swea_1952_수영장" />
-        <item itemvalue="Python.swea_1486_장훈이의높은선반" />
       </list>
     </recent_temporary>
   </component>
@@ -209,46 +207,46 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="883" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582112317404">
+    <state x="883" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583213320669">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="883" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1582112317404" />
+    <state x="883" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583213320669" />
     <state x="933" y="168" key="FileChooserDialogImpl" timestamp="1582792670584">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="933" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582792670584" />
-    <state width="745" height="191" key="GridCell.Tab.0.bottom" timestamp="1583201835714">
+    <state width="746" height="191" key="GridCell.Tab.0.bottom" timestamp="1583226584570">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="745" height="191" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583201835714" />
-    <state width="745" height="191" key="GridCell.Tab.0.center" timestamp="1583201835714">
+    <state width="746" height="191" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583226584570" />
+    <state width="746" height="191" key="GridCell.Tab.0.center" timestamp="1583226584570">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="745" height="191" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583201835714" />
-    <state width="745" height="191" key="GridCell.Tab.0.left" timestamp="1583201835714">
+    <state width="746" height="191" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583226584570" />
+    <state width="746" height="191" key="GridCell.Tab.0.left" timestamp="1583226584569">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="745" height="191" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583201835714" />
-    <state width="745" height="191" key="GridCell.Tab.0.right" timestamp="1583201835714">
+    <state width="746" height="191" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583226584569" />
+    <state width="746" height="191" key="GridCell.Tab.0.right" timestamp="1583226584570">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="745" height="191" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583201835714" />
-    <state width="1515" height="238" key="GridCell.Tab.1.bottom" timestamp="1582120563280">
+    <state width="746" height="191" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583226584570" />
+    <state width="745" height="237" key="GridCell.Tab.1.bottom" timestamp="1583209197622">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="238" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582120563280" />
-    <state width="1515" height="238" key="GridCell.Tab.1.center" timestamp="1582120563280">
+    <state width="745" height="237" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583209197622" />
+    <state width="745" height="237" key="GridCell.Tab.1.center" timestamp="1583209197622">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="238" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582120563280" />
-    <state width="1515" height="238" key="GridCell.Tab.1.left" timestamp="1582120563280">
+    <state width="745" height="237" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583209197622" />
+    <state width="745" height="237" key="GridCell.Tab.1.left" timestamp="1583209197622">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="238" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582120563280" />
-    <state width="1515" height="238" key="GridCell.Tab.1.right" timestamp="1582120563280">
+    <state width="745" height="237" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583209197622" />
+    <state width="745" height="237" key="GridCell.Tab.1.right" timestamp="1583209197622">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="238" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582120563280" />
+    <state width="745" height="237" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583209197622" />
     <state x="555" y="58" key="SettingsEditor" timestamp="1582680671699">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
