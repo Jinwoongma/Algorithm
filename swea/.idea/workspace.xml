@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2293606-ffcc-49d2-befb-900d73106678" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/모의 테스트/swea_4012_요리사2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백준/BOJ_17822_원판돌리기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../백준/BOJ_17825_주사위윷놀이.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/모의 테스트/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/모의 테스트/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/모의 테스트/swea_4012_요리사.py" beforeDir="false" afterPath="$PROJECT_DIR$/모의 테스트/swea_4012_요리사.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../백준/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
