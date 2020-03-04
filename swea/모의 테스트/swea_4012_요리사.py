@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open("input_4012.txt", "r")
+sys.stdin = open("input.txt", "r")
 
 def combination(index, cnt):
     if cnt == N // 2:
