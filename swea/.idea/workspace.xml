@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2293606-ffcc-49d2-befb-900d73106678" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../백준/BOJ_10844_쉬운계단수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백준/BOJ_11048_이동하기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백준/BOJ_11057_오르막수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백준/BOJ_1890_점프.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../백준/BOJ_11052_카드구매하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../백준/BOJ_11053_가장긴증가하는부분수열.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../백준/BOJ_1912_연속합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../백준/BOJ_2193_이진수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../백준/BOJ_2294_동전2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../백준/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준/BOJ_1520_내리막길.py" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/BOJ_1520_내리막길.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
