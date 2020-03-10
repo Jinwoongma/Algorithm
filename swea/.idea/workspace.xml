@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2293606-ffcc-49d2-befb-900d73106678" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../백준/BOJ_11727_2xn타일링2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백준/BOJ_1463_1로만들기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백준/BOJ_2747_피보나치수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../백준/BOJ_10844_쉬운계단수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../백준/BOJ_11048_이동하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../백준/BOJ_11057_오르막수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../백준/BOJ_1890_점프.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../백준/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/.idea/workspace.xml" afterDir="false" />
     </list>
