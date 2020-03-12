@@ -1,8 +1,5 @@
 from queue import PriorityQueue
 import math
-import sys
-sys.stdin = open('input.txt', 'r')
-
 
 def MST_PRIM(G, r):
     D = [0xffffffff] * (N + 1)
