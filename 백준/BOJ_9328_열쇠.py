@@ -66,7 +66,7 @@ for tc in range(TC):
     result = 0
 
     for i in range(r + 2):
-        for j in range(c + 2): 
+        for j in range(c + 2):  
             if i == 0 or j == 0 or i == r + 1 or j == c + 1:
                 if MAP[i][j] == '.' and not visited[i][j]:
                     bfs(i, j)
