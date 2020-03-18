@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87959c0b-acb1-4bae-b962-532b02e3b18e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BOJ_17836_공주님을구해라!.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ_2234_성곽.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ_16985_Maaaaaaaaaze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ_16988_Baaaaaaaaaduk2 (Easy).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ_5214_환승.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,8 +55,8 @@
       <recent name="C:\Users\USER\Desktop\A를 향해\백준" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.BOJ_17836_공주님을구해라!">
-    <configuration name="BOJ_16929_Two Dots" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.BOJ_5214_환승">
+    <configuration name="BOJ_16985_Maaaaaaaaaze" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="백준" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,7 +68,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_16929_Two Dots.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_16985_Maaaaaaaaaze.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_16954_움직이는미로탈출" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ_16988_Baaaaaaaaaduk2 (Easy)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="백준" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +89,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_16954_움직이는미로탈출.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_16988_Baaaaaaaaaduk2 (Easy).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_3055_탈출" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ_5214_환승" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="백준" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,7 +152,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_3055_탈출.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_5214_환승.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,19 +162,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.BOJ_16954_움직이는미로탈출" />
-      <item itemvalue="Python.BOJ_16929_Two Dots" />
-      <item itemvalue="Python.BOJ_3055_탈출" />
       <item itemvalue="Python.BOJ_2234_성곽" />
       <item itemvalue="Python.BOJ_17836_공주님을구해라!" />
+      <item itemvalue="Python.BOJ_16985_Maaaaaaaaaze" />
+      <item itemvalue="Python.BOJ_16988_Baaaaaaaaaduk2 (Easy)" />
+      <item itemvalue="Python.BOJ_5214_환승" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ_5214_환승" />
+        <item itemvalue="Python.BOJ_16988_Baaaaaaaaaduk2 (Easy)" />
+        <item itemvalue="Python.BOJ_16985_Maaaaaaaaaze" />
         <item itemvalue="Python.BOJ_17836_공주님을구해라!" />
         <item itemvalue="Python.BOJ_2234_성곽" />
-        <item itemvalue="Python.BOJ_3055_탈출" />
-        <item itemvalue="Python.BOJ_16929_Two Dots" />
-        <item itemvalue="Python.BOJ_16954_움직이는미로탈출" />
       </list>
     </recent_temporary>
   </component>
@@ -215,22 +216,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="933" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584013283331" />
-    <state width="747" height="176" key="GridCell.Tab.0.bottom" timestamp="1584523106339">
+    <state width="738" height="176" key="GridCell.Tab.0.bottom" timestamp="1584545127517">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="747" height="176" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584523106339" />
-    <state width="747" height="176" key="GridCell.Tab.0.center" timestamp="1584523106339">
+    <state width="738" height="176" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584545127517" />
+    <state width="738" height="176" key="GridCell.Tab.0.center" timestamp="1584545127517">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="747" height="176" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584523106339" />
-    <state width="747" height="176" key="GridCell.Tab.0.left" timestamp="1584523106338">
+    <state width="738" height="176" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584545127517" />
+    <state width="738" height="176" key="GridCell.Tab.0.left" timestamp="1584545127517">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="747" height="176" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584523106338" />
-    <state width="747" height="176" key="GridCell.Tab.0.right" timestamp="1584523106339">
+    <state width="738" height="176" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584545127517" />
+    <state width="738" height="176" key="GridCell.Tab.0.right" timestamp="1584545127517">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="747" height="176" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584523106339" />
+    <state width="738" height="176" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584545127517" />
     <state x="555" y="55" key="SettingsEditor" timestamp="1582517905565">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
