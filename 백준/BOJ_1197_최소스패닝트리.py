@@ -11,7 +11,7 @@ def MST_PRIM(G, r):
         visited[u] = True
         for v, w in G[u]:
             if not visited[v] and w < D[v]:
-                D[v] = w
+                D[v] = w 
                 heapq.heappush(h, (w, v))
     return sum(D[1:])
 

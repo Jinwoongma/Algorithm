@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87959c0b-acb1-4bae-b962-532b02e3b18e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BOJ_2638_치즈.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ_1197_최소스패닝트리.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ_1197_최소스패닝트리.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ㄴㅇㄹ.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
