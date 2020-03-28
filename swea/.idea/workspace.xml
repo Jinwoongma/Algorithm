@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2293606-ffcc-49d2-befb-900d73106678" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/D4/swea_7699_수지의수지맞는여행.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/D6/swea_1265_사람네트워크2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백준/BOJ_18809_Gaaaaaaaaaarden.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백준/BOJ_2211_네트워크복구.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../백준/BOJ_16955_오목이길수있을까.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D4/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D4/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../백준/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +43,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/D6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../백준" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -166,11 +162,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.swea_3752_가능한시험점수" />
-      <item itemvalue="Python.swea_1949_등산로조성" />
       <item itemvalue="Python.swea_1251_하나로" />
-      <item itemvalue="Python.swea_7699_수지의수지맞는여행" />
       <item itemvalue="Python.swea_1265_사람네트워크2" />
+      <item itemvalue="Python.swea_1949_등산로조성" />
+      <item itemvalue="Python.swea_3752_가능한시험점수" />
+      <item itemvalue="Python.swea_7699_수지의수지맞는여행" />
     </list>
     <recent_temporary>
       <list>
@@ -212,26 +208,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="883" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583213320669" />
-    <state x="933" y="168" key="FileChooserDialogImpl" timestamp="1584266746552">
+    <state x="933" y="168" key="FileChooserDialogImpl" timestamp="1585189335107">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="933" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584266746552" />
-    <state width="748" height="154" key="GridCell.Tab.0.bottom" timestamp="1585055794368">
+    <state x="933" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585189335107" />
+    <state width="748" height="154" key="GridCell.Tab.0.bottom" timestamp="1585105382092">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="748" height="154" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585055794368" />
-    <state width="748" height="154" key="GridCell.Tab.0.center" timestamp="1585055794368">
+    <state width="748" height="154" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585105382092" />
+    <state width="748" height="154" key="GridCell.Tab.0.center" timestamp="1585105382092">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="748" height="154" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585055794368" />
-    <state width="748" height="154" key="GridCell.Tab.0.left" timestamp="1585055794368">
+    <state width="748" height="154" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585105382092" />
+    <state width="748" height="154" key="GridCell.Tab.0.left" timestamp="1585105382092">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="748" height="154" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585055794368" />
-    <state width="748" height="154" key="GridCell.Tab.0.right" timestamp="1585055794368">
+    <state width="748" height="154" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585105382092" />
+    <state width="748" height="154" key="GridCell.Tab.0.right" timestamp="1585105382092">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="748" height="154" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585055794368" />
+    <state width="748" height="154" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585105382092" />
     <state width="745" height="237" key="GridCell.Tab.1.bottom" timestamp="1583226705435">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
