@@ -2,29 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bcbc505-4a80-4f40-820a-80ab8b3d1b9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../test/line_모의고사/problem1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/line_모의고사/problem2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/line_모의고사/problem3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/line_모의고사/problem4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/line_모의고사/problem5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/line_모의고사/problem6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/disjoint_sets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백준/BOJ_1717_집합의표현.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../swea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../swea/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/기타.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/기타.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../백준/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../월말평가/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../월말평가/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../월말평가/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../월말평가/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../월말평가/.idea/test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../월말평가/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../월말평가/Algo_대전_1반_김진웅/Algo1_대전_1반_김진웅.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../월말평가/Algo_대전_1반_김진웅/Algo2_대전_1반_김진웅.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../월말평가/Algo_대전_1반_김진웅/Algo3_code.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../월말평가/Algo_대전_1반_김진웅/Algo3_대전_1반_김진웅.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,10 +30,10 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../백준" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test/kakao_2020_기출문제" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.disjoint_sets (1)">
+  <component name="RunManager" selected="Python.test">
     <configuration name="중복순열" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="기타" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,27 +97,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="permutation_backtrack" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="기타" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\multicampus\algorithm\github\기타\중복없는순열_backtrack.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="qucksort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="기타" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -159,20 +118,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="기타" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.permutation_backtrack" />
       <item itemvalue="Python.중복순열" />
       <item itemvalue="Python.qucksort" />
       <item itemvalue="Python.disjoint_sets" />
       <item itemvalue="Python.disjoint_sets (1)" />
+      <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.disjoint_sets (1)" />
         <item itemvalue="Python.disjoint_sets" />
         <item itemvalue="Python.qucksort" />
         <item itemvalue="Python.중복순열" />
-        <item itemvalue="Python.permutation_backtrack" />
       </list>
     </recent_temporary>
   </component>
@@ -202,26 +182,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="939" y="168" key="FileChooserDialogImpl" timestamp="1585990473132">
+    <state x="939" y="168" key="FileChooserDialogImpl" timestamp="1586007567224">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="939" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585990473132" />
-    <state width="736" height="186" key="GridCell.Tab.0.bottom" timestamp="1585991386131">
+    <state x="939" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586007567224" />
+    <state width="736" height="184" key="GridCell.Tab.0.bottom" timestamp="1586007568305">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="736" height="186" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585991386131" />
-    <state width="736" height="186" key="GridCell.Tab.0.center" timestamp="1585991386131">
+    <state width="736" height="184" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586007568305" />
+    <state width="736" height="184" key="GridCell.Tab.0.center" timestamp="1586007568304">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="736" height="186" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585991386131" />
-    <state width="736" height="186" key="GridCell.Tab.0.left" timestamp="1585991386131">
+    <state width="736" height="184" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586007568304" />
+    <state width="736" height="184" key="GridCell.Tab.0.left" timestamp="1586007568304">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="736" height="186" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585991386131" />
-    <state width="736" height="186" key="GridCell.Tab.0.right" timestamp="1585991386131">
+    <state width="736" height="184" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586007568304" />
+    <state width="736" height="184" key="GridCell.Tab.0.right" timestamp="1586007568305">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="736" height="186" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585991386131" />
+    <state width="736" height="184" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586007568305" />
     <state x="555" y="55" key="SettingsEditor" timestamp="1585980339899">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
