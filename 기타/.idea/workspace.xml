@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bcbc505-4a80-4f40-820a-80ab8b3d1b9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/버블 정렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/병합정렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삽입정렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/선택정렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/카운팅정렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../백준/BOJ_14503_로봇청소기(2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../백준/BOJ_14888_연산자끼워넣기(2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../swea/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../백준/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../백준/BOJ_2468_안전영역(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/BOJ_2468_안전영역(2).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,11 +38,11 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test/kakao_2020_기출문제" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="중복순열" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.삽입정렬">
+    <configuration name="버블 정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="기타" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,7 +54,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/중복순열.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/버블 정렬.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -55,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="disjoint_sets (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="병합정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="기타" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,7 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/disjoint_sets.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/병합정렬.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="disjoint_sets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="삽입정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="기타" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +96,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\USER\Desktop\A를 향해\기타\disjoint_sets.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삽입정렬.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="qucksort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="카운팅정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="기타" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +117,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\multicampus\algorithm\github\기타\분할정복.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/카운팅정렬.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="선택정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="기타" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/선택정렬.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,19 +148,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.중복순열" />
-      <item itemvalue="Python.qucksort" />
-      <item itemvalue="Python.disjoint_sets" />
-      <item itemvalue="Python.disjoint_sets (1)" />
-      <item itemvalue="Python.test" />
+      <item itemvalue="Python.병합정렬" />
+      <item itemvalue="Python.삽입정렬" />
+      <item itemvalue="Python.버블 정렬" />
+      <item itemvalue="Python.카운팅정렬" />
+      <item itemvalue="Python.선택정렬" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.disjoint_sets (1)" />
-        <item itemvalue="Python.disjoint_sets" />
-        <item itemvalue="Python.qucksort" />
-        <item itemvalue="Python.중복순열" />
+        <item itemvalue="Python.삽입정렬" />
+        <item itemvalue="Python.버블 정렬" />
+        <item itemvalue="Python.선택정렬" />
+        <item itemvalue="Python.카운팅정렬" />
+        <item itemvalue="Python.병합정렬" />
       </list>
     </recent_temporary>
   </component>
@@ -186,22 +194,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="939" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586007567224" />
-    <state width="736" height="184" key="GridCell.Tab.0.bottom" timestamp="1586007568305">
+    <state width="736" height="184" key="GridCell.Tab.0.bottom" timestamp="1586510377372">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="736" height="184" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586007568305" />
-    <state width="736" height="184" key="GridCell.Tab.0.center" timestamp="1586007568304">
+    <state width="736" height="184" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586510377372" />
+    <state width="736" height="184" key="GridCell.Tab.0.center" timestamp="1586510377371">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="736" height="184" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586007568304" />
-    <state width="736" height="184" key="GridCell.Tab.0.left" timestamp="1586007568304">
+    <state width="736" height="184" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586510377371" />
+    <state width="736" height="184" key="GridCell.Tab.0.left" timestamp="1586510377371">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="736" height="184" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586007568304" />
-    <state width="736" height="184" key="GridCell.Tab.0.right" timestamp="1586007568305">
+    <state width="736" height="184" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586510377371" />
+    <state width="736" height="184" key="GridCell.Tab.0.right" timestamp="1586510377371">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="736" height="184" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586007568305" />
+    <state width="736" height="184" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586510377371" />
     <state x="555" y="55" key="SettingsEditor" timestamp="1585980339899">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
