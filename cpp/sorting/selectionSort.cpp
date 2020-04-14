@@ -1,5 +1,7 @@
 // 선택정렬 알고리즘
 #include <iostream>
+#include <cstdlib>
+#include <ctime>
 #define MAX 100
 using namespace std;
 int Buf[MAX];
@@ -125,20 +127,31 @@ void MergeSort(int lo, int hi) {
 	}
 }
 
-void QuickSort(int start, int end) {
-	int pivot = Buf[start];
-	int left = start + 1;
-	int right = end;
-	while (left <= right) {
-		while(Buf[left] < pivot) left++;
-		while (Buf[right] > pivot) right--;
-		if (left <= right) swap(Buf[left], Buf[right]);
+int Partition(int arr[], int start, int end) {
+	srand(time(NULL));
+	int rnum = rand() % (end - start + 1) + start;
+	swap(arr[rnum], arr[end]);
+
+	int pivot = arr[end];
+	int rose = start;
+
+	for (int i = start; i < end; i++) {
+		if (arr[i] <= pivot) {
+			swap(arr[rose], arr[i]);
+			rose++;
+		}
 	}
-	
-	if (start < end) { // 한개로 쪼개질때까지
-		swap(Buf[start], Buf[right]);
-		QuickSort(start, right - 1);
-		QuickSort(right + 1, end);
+	swap(arr[rose], arr[end]);
+	return rose;
+}
+
+void QuickSort(int arr[], int start, int end) {
+	int index;
+
+	if (start < end) {
+		index = Partition(arr, start, end);
+		QuickSort(arr, start, index - 1);
+		QuickSort(arr, index + 1, end);
 	}
 }
 
@@ -188,7 +201,7 @@ int main() {
 	//BubbleSort();
 	//ShellSort();
 	//MergeSort(0, MAX - 1);
-	//QuickSort(0, MAX - 1);
-	HeapSort(MAX);
+	QuickSort(Buf, 0, MAX - 1);
+	//HeapSort(MAX);
 	Display();
 }

@@ -1,23 +1,32 @@
 #include <iostream>
+//#include <cstdlib>
+#include <ctime>
 #define MAX 10
 using namespace std;
 
 int arr[MAX] = { 10, 4, 54, 32, 15, 75, 34, 22, 16, 7 };
 
-void quickSort(int start, int end) {
-	int pivot = arr[start];
-	int left = start + 1;
-	int right = end;
-	
-	while (left <= right) {
-		while (arr[left] < pivot) left++;
-		while (arr[right] > pivot) right--;
-		if (left <= right) swap(arr[left], arr[right]);
+int Partition(int start, int end) {
+	srand(time(NULL));
+	int rnum = start + (rand() % (end - start + 1));
+	swap(arr[end], arr[rnum]);
+	int pivot = arr[end];
+	int rose = start;
+
+	for (int i = start; i < end; i++) {
+		if (arr[i] <= pivot) {
+			swap(arr[rose], arr[i]);
+			rose++;
+		}
 	}
+	swap(arr[end], arr[rose]);
+	return rose;
+}
+void quickSort(int start, int end) {
 	if (start < end) {
-		swap(arr[start], arr[right]);
-		quickSort(start, right - 1);
-		quickSort(right + 1, end);
+		int index = Partition(start, end);
+		quickSort(start, index - 1);
+		quickSort(index + 1, end);
 	}
 }
 
@@ -56,8 +65,8 @@ int main() {
 		printf("%3d", arr[i]);
 	}
 	cout << endl;
-	//quickSort(0, MAX - 1);
-	HeapSort(MAX);
+	quickSort(0, MAX - 1);
+	//HeapSort(MAX);
 	for (int i = 0; i < MAX; i++) {
 		printf("%3d", arr[i]);
 	}
