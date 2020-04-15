@@ -1,3 +1,0 @@
-﻿  소스.cpp
-C:\Users\USER\Desktop\A를 향해\백준\Project3\test\소스.cpp(128,12): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
-  test.vcxproj -> C:\Users\USER\Desktop\A를 향해\백준\Project3\Debug\test.exe

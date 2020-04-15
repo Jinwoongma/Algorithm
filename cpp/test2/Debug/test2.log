@@ -1,3 +1,0 @@
-﻿  소스.cpp
-C:\Users\USER\Desktop\A를 향해\cpp\test2\소스.cpp(10,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  test2.vcxproj -> C:\Users\USER\Desktop\A를 향해\cpp\Debug\test2.exe
