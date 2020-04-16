@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2293606-ffcc-49d2-befb-900d73106678" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/D2/swea_5174_subtree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/D2/swea_5176_이진탐색.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/D2/swea_5177_이진힙.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/D3/swea_5178_노드의합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/모의 테스트/swea_1767_프로세서연결하기(2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백준/BOJ_14502_연구소(2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백준/BOJ_16234_인구이동(2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백준/BOJ_17136_색종이붙이기(2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../백준/BOJ_17070_파이프옮기기1(2).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../백준/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/.idea/workspace.xml" afterDir="false" />
     </list>
