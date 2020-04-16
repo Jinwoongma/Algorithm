@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87959c0b-acb1-4bae-b962-532b02e3b18e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BOJ_17070_파이프옮기기1(2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ_17822_원판돌리기(2).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../swea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../swea/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -54,7 +54,7 @@
       <recent name="C:\Users\USER\Desktop\A를 향해\백준" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.BOJ_17070_파이프옮기기1(2)">
+  <component name="RunManager" selected="Python.BOJ_17822_원판돌리기(2)">
     <configuration name="BOJ_14502_연구소(2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="백준" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_17144_미세먼지안녕!" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="BOJ_17822_원판돌리기(2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="백준" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,7 +151,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_17144_미세먼지안녕!.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_17822_원판돌리기(2).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,19 +161,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.BOJ_17144_미세먼지안녕!" />
       <item itemvalue="Python.BOJ_14502_연구소(2)" />
       <item itemvalue="Python.BOJ_17136_색종이붙이기(2)" />
       <item itemvalue="Python.BOJ_16234_인구이동(2)" />
       <item itemvalue="Python.BOJ_17070_파이프옮기기1(2)" />
+      <item itemvalue="Python.BOJ_17822_원판돌리기(2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ_17822_원판돌리기(2)" />
         <item itemvalue="Python.BOJ_17070_파이프옮기기1(2)" />
         <item itemvalue="Python.BOJ_16234_인구이동(2)" />
         <item itemvalue="Python.BOJ_17136_색종이붙이기(2)" />
         <item itemvalue="Python.BOJ_14502_연구소(2)" />
-        <item itemvalue="Python.BOJ_17144_미세먼지안녕!" />
       </list>
     </recent_temporary>
   </component>
@@ -215,22 +215,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="933" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587006429889" />
-    <state width="746" height="228" key="GridCell.Tab.0.bottom" timestamp="1587047138810">
+    <state width="746" height="228" key="GridCell.Tab.0.bottom" timestamp="1587050921586">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="228" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587047138810" />
-    <state width="746" height="228" key="GridCell.Tab.0.center" timestamp="1587047138810">
+    <state width="746" height="228" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587050921586" />
+    <state width="746" height="228" key="GridCell.Tab.0.center" timestamp="1587050921586">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="228" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587047138810" />
-    <state width="746" height="228" key="GridCell.Tab.0.left" timestamp="1587047138810">
+    <state width="746" height="228" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587050921586" />
+    <state width="746" height="228" key="GridCell.Tab.0.left" timestamp="1587050921586">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="228" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587047138810" />
-    <state width="746" height="228" key="GridCell.Tab.0.right" timestamp="1587047138810">
+    <state width="746" height="228" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587050921586" />
+    <state width="746" height="228" key="GridCell.Tab.0.right" timestamp="1587050921586">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="228" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587047138810" />
+    <state width="746" height="228" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587050921586" />
     <state x="555" y="55" key="SettingsEditor" timestamp="1585046916577">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -255,9 +255,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="895" y="58" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1583418603513" />
-    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584619917659">
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587049118782">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584619917659" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587049118782" />
   </component>
 </project>
