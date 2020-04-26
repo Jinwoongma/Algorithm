@@ -1,17 +1,23 @@
+from _collections import deque
+
 dy = [-1, 1, 0, 0]; dx = [0, 0, -1, 1]
 MAP = [[0 for _ in range(7)] for _ in range(7)]
 path = []
 
-
-def dfs(y, x, visited, ref):
+def bfs(y, x, visited, ref):
     global path
+    Q = deque()
+    Q.append([y, x])
     visited[y][x] = True
-    for dir in range(4):
-        ty, tx = y + dy[dir], x + dx[dir]
-        if ty < 1 or ty >= 7 or tx < 1 or tx >= 7: continue
-        if MAP[ty][tx] == ref and not visited[ty][tx]:
-            path.append([ty, tx])
-            dfs(ty, tx, visited, ref)
+    while Q:
+        y, x = Q.popleft()
+        for dir in range(4):
+            ty, tx = y + dy[dir], x + dx[dir]
+            if ty < 1 or ty >= 7 or tx < 1 or tx >= 7: continue
+            if MAP[ty][tx] == ref and not visited[ty][tx]:
+                visited[ty][tx] = True
+                path += [[ty, tx]]
+                Q.append([ty, tx])
 
 
 def update():
@@ -32,39 +38,35 @@ def solution(macaron):
     global path
     answer = []
     for x, color in macaron:
+        print(x, color)
         for i in range(1, 7):
             if MAP[i][x] != 0:
                 MAP[i - 1][x] = color
-                y = i - 1
                 break
         else:
             MAP[6][x] = color
-            y = 6
 
-        visited = [[False for _ in range(7)] for _ in range(7)]
-        path = [[y, x]]
-        dfs(y, x, visited, color)
-        if len(path) >= 3:
-            for y, x in path:
-                MAP[y][x] = 0
+        while True:
+            visited = [[False for _ in range(7)] for _ in range(7)]
+            del_path = []
+            for i in range(1, 7):
+                for j in range(1, 7):
+                    if MAP[i][j] != 0 and not visited[i][j]:
+                        path = [[i, j]]
+                        bfs(i, j, visited, MAP[i][j])
+                        print(path)
+                        if len(path) >= 3:
+                            del_path += path
+
+            if len(del_path) == 0:
+                break
+
+            for i in range(len(del_path)):
+                MAP[del_path[i][0]][del_path[i][1]] = 0
             update()
-            while True:
-                visited = [[False for _ in range(7)] for _ in range(7)]
-                flag = False
-                for i in range(1, 7):
-                    for j in range(1, 7):
-                        if not visited[i][j] and MAP[i][j] != 0:
-                            path = [[i, j]]
-                            dfs(i, j, visited, MAP[i][j])
-                            if len(path) >= 3:
-                                flag = True
-                                for y, x in path:
-                                    MAP[y][x] = 0
-                            update()
-                if not flag: break
-        print(y, x)
+
         for i in range(1, 7):
-            print(MAP[i])
+            print(MAP[i][1:])
         print()
 
     for i in range(1, 7):

@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87959c0b-acb1-4bae-b962-532b02e3b18e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../test/SSAFY 모의고사/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/hdcard/problem1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/hdcard/problem2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/hdcard/problem3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/hdcard/problem4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/programmers/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../swea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../swea/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/.idea/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../test/.idea/test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/Algo_대전_1반_김진웅/Algo1_대전_1반_김진웅.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ_15683_감시(2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ_17837_새로운게임2(2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/hdcard/problem4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test/hdcard/problem4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,8 +55,8 @@
       <recent name="C:\Users\USER\Desktop\A를 향해\백준" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="BOJ_16234_인구이동(2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.BOJ_17837_새로운게임2(2)">
+    <configuration name="BOJ_15683_감시(2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="백준" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,7 +68,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_16234_인구이동(2).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_15683_감시(2).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,27 +98,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_17136_색종이붙이기(2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="백준" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_17136_색종이붙이기(2).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="BOJ_17822_원판돌리기(2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="백준" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,6 +111,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_17822_원판돌리기(2).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BOJ_17837_새로운게임2(2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="백준" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_17837_새로운게임2(2).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,19 +162,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.BOJ_17136_색종이붙이기(2)" />
-      <item itemvalue="Python.BOJ_16234_인구이동(2)" />
       <item itemvalue="Python.BOJ_17070_파이프옮기기1(2)" />
       <item itemvalue="Python.BOJ_17822_원판돌리기(2)" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.BOJ_15683_감시(2)" />
+      <item itemvalue="Python.BOJ_17837_새로운게임2(2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ_17837_새로운게임2(2)" />
+        <item itemvalue="Python.BOJ_15683_감시(2)" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.BOJ_17822_원판돌리기(2)" />
         <item itemvalue="Python.BOJ_17070_파이프옮기기1(2)" />
-        <item itemvalue="Python.BOJ_16234_인구이동(2)" />
-        <item itemvalue="Python.BOJ_17136_색종이붙이기(2)" />
       </list>
     </recent_temporary>
   </component>
@@ -224,30 +216,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="933" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587006429889" />
-    <state width="747" height="141" key="GridCell.Tab.0.bottom" timestamp="1587817642660">
+    <state width="742" height="210" key="GridCell.Tab.0.bottom" timestamp="1587889734906">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="747" height="141" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587817642660" />
-    <state width="747" height="141" key="GridCell.Tab.0.center" timestamp="1587817642656">
+    <state width="742" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587889734906" />
+    <state width="742" height="210" key="GridCell.Tab.0.center" timestamp="1587889734906">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="747" height="141" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587817642656" />
-    <state width="747" height="141" key="GridCell.Tab.0.left" timestamp="1587817642654">
+    <state width="742" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587889734906" />
+    <state width="742" height="210" key="GridCell.Tab.0.left" timestamp="1587889734906">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="747" height="141" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587817642654" />
-    <state width="747" height="141" key="GridCell.Tab.0.right" timestamp="1587817642658">
+    <state width="742" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587889734906" />
+    <state width="742" height="210" key="GridCell.Tab.0.right" timestamp="1587889734906">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="747" height="141" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587817642658" />
+    <state width="742" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587889734906" />
     <state x="555" y="55" key="SettingsEditor" timestamp="1585046916577">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="555" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585046916577" />
-    <state x="-6" y="42" width="774" height="614" key="dock-window-1" timestamp="1587817749187">
+    <state x="-6" y="42" width="774" height="614" key="dock-window-1" timestamp="1587868075047">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="-6" y="42" width="774" height="614" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1587817749187" />
+    <state x="-6" y="42" width="774" height="614" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1587868075047" />
     <state x="862" y="100" width="581" height="630" key="dock-window-2" timestamp="1586437250179">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
