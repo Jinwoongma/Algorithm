@@ -11,6 +11,7 @@ for i in range(22, 26):
 MAP[26] = 20; MAP[27] = 15; MAP[28] = 27
 MAP[29] = 30; MAP[30] = 24; MAP[24] = 28
 turn[5] = 22; turn[10] = 29; turn[15] = 16; turn[24] = 25
+temp = [24, 25, 26, 20, 21]
 
 
 def solve(index):
@@ -31,8 +32,12 @@ def solve(index):
             now = turn[now]
             move -= 1
 
-        for j in range(move):
+        while move:
+            if now == 30:
+                now = temp[move - 1]
+                break
             now = MAP[now]
+            move -= 1
 
         if now != 21 and visited[now]: continue  # 이미 말이 있으면 pass
 
