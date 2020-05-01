@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2293606-ffcc-49d2-befb-900d73106678" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/D2/swea_5185_이진수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/D2/swea_5186_이진수2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/AlgorithmJobs/수영장청소.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백준/BOJ_12100_2048easy(2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D5/swea_1242_암호코드스캔.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/AlgorithmJobs/디퓨저.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/AlgorithmJobs/전장속으로.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../백준/BOJ_1063_킹.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../백준/BOJ_16236_아기상어(2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../백준/BOJ_1725_히스토그램.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../백준/BOJ_5397_키로거.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test/AlgorithmJobs/알파윷.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test/AlgorithmJobs/알파윷.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../백준/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +61,28 @@
       <recent name="C:\Users\multicampus\algorithm\github\swea\D2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.swea_5186_이진수2">
+  <component name="RunManager" selected="Python.swea_1242_암호코드스캔">
+    <configuration name="swea_1242_암호코드스캔" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="swea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D5/swea_1242_암호코드스캔.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="swea_1767_프로세서연결하기(2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,27 +146,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="swea_5178_노드의합" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="swea" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3/swea_5178_노드의합.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="swea_5186_이진수2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,19 +168,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.swea_5178_노드의합" />
       <item itemvalue="Python.swea_5176_이진탐색" />
       <item itemvalue="Python.swea_5177_이진힙" />
       <item itemvalue="Python.swea_1767_프로세서연결하기(2)" />
       <item itemvalue="Python.swea_5186_이진수2" />
+      <item itemvalue="Python.swea_1242_암호코드스캔" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.swea_1242_암호코드스캔" />
         <item itemvalue="Python.swea_5186_이진수2" />
         <item itemvalue="Python.swea_1767_프로세서연결하기(2)" />
         <item itemvalue="Python.swea_5177_이진힙" />
         <item itemvalue="Python.swea_5176_이진탐색" />
-        <item itemvalue="Python.swea_5178_노드의합" />
       </list>
     </recent_temporary>
   </component>
@@ -216,22 +218,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="933" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587815751587" />
-    <state width="748" height="154" key="GridCell.Tab.0.bottom" timestamp="1588136541193">
+    <state width="748" height="154" key="GridCell.Tab.0.bottom" timestamp="1588239331044">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="748" height="154" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588136541193" />
-    <state width="748" height="154" key="GridCell.Tab.0.center" timestamp="1588136541193">
+    <state width="748" height="154" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588239331044" />
+    <state width="748" height="154" key="GridCell.Tab.0.center" timestamp="1588239331043">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="748" height="154" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588136541193" />
-    <state width="748" height="154" key="GridCell.Tab.0.left" timestamp="1588136541192">
+    <state width="748" height="154" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588239331043" />
+    <state width="748" height="154" key="GridCell.Tab.0.left" timestamp="1588239331043">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="748" height="154" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588136541192" />
-    <state width="748" height="154" key="GridCell.Tab.0.right" timestamp="1588136541193">
+    <state width="748" height="154" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588239331043" />
+    <state width="748" height="154" key="GridCell.Tab.0.right" timestamp="1588239331043">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="748" height="154" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588136541193" />
+    <state width="748" height="154" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588239331043" />
     <state width="745" height="237" key="GridCell.Tab.1.bottom" timestamp="1583226705435">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
