@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87959c0b-acb1-4bae-b962-532b02e3b18e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BOJ_14891_톱니바퀴(2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ_3190_뱀(2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ_17140_이차원배열과연산(2).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../swea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../swea/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../swea/D5/swea_1242_암호코드스캔.py" beforeDir="false" afterPath="$PROJECT_DIR$/../swea/D5/swea_1242_암호코드스캔.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +54,7 @@
       <recent name="C:\Users\USER\Desktop\A를 향해\백준" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.BOJ_3190_뱀(2)">
+  <component name="RunManager" selected="Python.BOJ_17140_이차원배열과연산(2)">
     <configuration name="BOJ_1063_킹" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="백준" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,6 +89,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_14891_톱니바퀴(2).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BOJ_17140_이차원배열과연산(2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="백준" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_17140_이차원배열과연산(2).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,41 +160,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ_5397_키로거" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="백준" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ_5397_키로거.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.BOJ_5397_키로거" />
       <item itemvalue="Python.BOJ_1063_킹" />
       <item itemvalue="Python.BOJ_1725_히스토그램" />
       <item itemvalue="Python.BOJ_14891_톱니바퀴(2)" />
       <item itemvalue="Python.BOJ_3190_뱀(2)" />
+      <item itemvalue="Python.BOJ_17140_이차원배열과연산(2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ_17140_이차원배열과연산(2)" />
         <item itemvalue="Python.BOJ_3190_뱀(2)" />
         <item itemvalue="Python.BOJ_14891_톱니바퀴(2)" />
         <item itemvalue="Python.BOJ_1725_히스토그램" />
         <item itemvalue="Python.BOJ_1063_킹" />
-        <item itemvalue="Python.BOJ_5397_키로거" />
       </list>
     </recent_temporary>
   </component>
@@ -217,22 +215,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="933" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588309178241" />
-    <state width="742" height="153" key="GridCell.Tab.0.bottom" timestamp="1588331746734">
+    <state width="742" height="153" key="GridCell.Tab.0.bottom" timestamp="1588409241522">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="742" height="153" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588331746734" />
-    <state width="742" height="153" key="GridCell.Tab.0.center" timestamp="1588331746734">
+    <state width="742" height="153" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588409241522" />
+    <state width="742" height="153" key="GridCell.Tab.0.center" timestamp="1588409241522">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="742" height="153" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588331746734" />
-    <state width="742" height="153" key="GridCell.Tab.0.left" timestamp="1588331746733">
+    <state width="742" height="153" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588409241522" />
+    <state width="742" height="153" key="GridCell.Tab.0.left" timestamp="1588409241522">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="742" height="153" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588331746733" />
-    <state width="742" height="153" key="GridCell.Tab.0.right" timestamp="1588331746734">
+    <state width="742" height="153" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588409241522" />
+    <state width="742" height="153" key="GridCell.Tab.0.right" timestamp="1588409241522">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="742" height="153" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588331746734" />
+    <state width="742" height="153" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588409241522" />
     <state x="555" y="55" key="SettingsEditor" timestamp="1585046916577">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
