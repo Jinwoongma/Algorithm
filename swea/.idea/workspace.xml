@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2293606-ffcc-49d2-befb-900d73106678" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/D3/swea_5201_컨테이너운반.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/D3/swea_5202_화물도크.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/D3/swea_5203_베이비진게임.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/kakao_internship/problem01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/kakao_internship/problem02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/kakao_internship/problem03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/kakao_internship/problem04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test/kakao_internship/problem05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D3/swea_5207_이진탐색.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../기타/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../기타/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../백준/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +56,7 @@
       <recent name="C:\Users\multicampus\algorithm\github\swea\D2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.swea_5203_베이비진게임">
+  <component name="RunManager" selected="Python.swea_5207_이진탐색">
     <configuration name="sample_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,27 +70,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../ssafy 웹/hit1get4-master/Hit1Get4_v1.51_64bit/Sample Code/sample_code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="swea_5189_전자카트" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="swea" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3/swea_5189_전자카트.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,20 +141,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="swea_5207_이진탐색" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="swea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3/swea_5207_이진탐색.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.swea_5189_전자카트" />
       <item itemvalue="Python.swea_5201_컨테이너운반" />
       <item itemvalue="Python.swea_5202_화물도크" />
       <item itemvalue="Python.sample_code" />
       <item itemvalue="Python.swea_5203_베이비진게임" />
+      <item itemvalue="Python.swea_5207_이진탐색" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.swea_5207_이진탐색" />
         <item itemvalue="Python.swea_5203_베이비진게임" />
         <item itemvalue="Python.sample_code" />
         <item itemvalue="Python.swea_5202_화물도크" />
         <item itemvalue="Python.swea_5201_컨테이너운반" />
-        <item itemvalue="Python.swea_5189_전자카트" />
       </list>
     </recent_temporary>
   </component>
@@ -219,22 +213,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="933" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588830634795" />
-    <state width="748" height="154" key="GridCell.Tab.0.bottom" timestamp="1588857614720">
+    <state width="748" height="154" key="GridCell.Tab.0.bottom" timestamp="1589442774556">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="748" height="154" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588857614720" />
-    <state width="748" height="154" key="GridCell.Tab.0.center" timestamp="1588857614720">
+    <state width="748" height="154" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589442774556" />
+    <state width="748" height="154" key="GridCell.Tab.0.center" timestamp="1589442774555">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="748" height="154" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588857614720" />
-    <state width="748" height="154" key="GridCell.Tab.0.left" timestamp="1588857614719">
+    <state width="748" height="154" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589442774555" />
+    <state width="748" height="154" key="GridCell.Tab.0.left" timestamp="1589442774554">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="748" height="154" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588857614719" />
-    <state width="748" height="154" key="GridCell.Tab.0.right" timestamp="1588857614720">
+    <state width="748" height="154" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589442774554" />
+    <state width="748" height="154" key="GridCell.Tab.0.right" timestamp="1589442774555">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="748" height="154" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588857614720" />
+    <state width="748" height="154" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589442774555" />
     <state width="745" height="237" key="GridCell.Tab.1.bottom" timestamp="1583226705435">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

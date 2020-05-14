@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bcbc505-4a80-4f40-820a-80ab8b3d1b9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/버블 정렬.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/병합정렬.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삽입정렬.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/선택정렬.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/카운팅정렬.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백준/BOJ_14503_로봇청소기(2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../백준/BOJ_14888_연산자끼워넣기(2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swea/D3/swea_5207_이진탐색.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../swea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../swea/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../백준/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../백준/BOJ_2468_안전영역(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/BOJ_2468_안전영역(2).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +34,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.삽입정렬">
+  <component name="RunManager" selected="Python.병합정렬">
     <configuration name="버블 정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="기타" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,17 +142,11 @@
     </configuration>
     <list>
       <item itemvalue="Python.병합정렬" />
-      <item itemvalue="Python.삽입정렬" />
       <item itemvalue="Python.버블 정렬" />
-      <item itemvalue="Python.카운팅정렬" />
-      <item itemvalue="Python.선택정렬" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.삽입정렬" />
         <item itemvalue="Python.버블 정렬" />
-        <item itemvalue="Python.선택정렬" />
-        <item itemvalue="Python.카운팅정렬" />
         <item itemvalue="Python.병합정렬" />
       </list>
     </recent_temporary>
