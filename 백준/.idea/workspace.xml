@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87959c0b-acb1-4bae-b962-532b02e3b18e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../swea/D3/swea_5207_이진탐색.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swea/D3/swea_5248_그룹나누기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swea/D4/swea_5247_연산.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swea/D4/swea_5249_최소신장트리.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../swea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../swea/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/0501_1반_김진웅.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../기타/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../기타/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -38,7 +41,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowStructure.ShowToolbar" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
   </component>
@@ -220,22 +223,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="933" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588999145865" />
-    <state width="740" height="161" key="GridCell.Tab.0.bottom" timestamp="1588751205157">
+    <state width="742" height="161" key="GridCell.Tab.0.bottom" timestamp="1589950149541">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="740" height="161" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588751205157" />
-    <state width="740" height="161" key="GridCell.Tab.0.center" timestamp="1588751205157">
+    <state width="742" height="161" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589950149541" />
+    <state width="742" height="161" key="GridCell.Tab.0.center" timestamp="1589950149541">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="740" height="161" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588751205157" />
-    <state width="740" height="161" key="GridCell.Tab.0.left" timestamp="1588751205157">
+    <state width="742" height="161" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589950149541" />
+    <state width="742" height="161" key="GridCell.Tab.0.left" timestamp="1589950149541">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="740" height="161" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588751205157" />
-    <state width="740" height="161" key="GridCell.Tab.0.right" timestamp="1588751205157">
+    <state width="742" height="161" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589950149541" />
+    <state width="742" height="161" key="GridCell.Tab.0.right" timestamp="1589950149541">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="740" height="161" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588751205157" />
+    <state width="742" height="161" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589950149541" />
     <state x="555" y="55" key="SettingsEditor" timestamp="1585046916577">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
