@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87959c0b-acb1-4bae-b962-532b02e3b18e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../swea/D3/swea_5248_그룹나누기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swea/D4/swea_5247_연산.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swea/D4/swea_5249_최소신장트리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swea/D3/swea_5250_최소비용.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swea/모의 테스트/swea_5648_원자소멸시뮬레이션.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../swea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../swea/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../swea/0501_1반_김진웅.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../기타/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../기타/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swea/D4/swea_5251_최소이동거리.py" beforeDir="false" afterPath="$PROJECT_DIR$/../swea/D4/swea_5251_최소이동거리.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
