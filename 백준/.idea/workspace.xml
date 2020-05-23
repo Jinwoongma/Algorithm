@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87959c0b-acb1-4bae-b962-532b02e3b18e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../swea/D3/swea_5250_최소비용.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swea/모의 테스트/swea_5648_원자소멸시뮬레이션.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swea/모의 테스트/swea_5653_줄기세포배양.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../swea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../swea/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../swea/D4/swea_5251_최소이동거리.py" beforeDir="false" afterPath="$PROJECT_DIR$/../swea/D4/swea_5251_최소이동거리.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
