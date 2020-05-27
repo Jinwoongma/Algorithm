@@ -1,61 +1,34 @@
-dx = [0, 1, 1, 1, 0, -1, -1, -1]
-dy = [1, 1, 0, -1, -1, -1, 0, 1]
+def solution(lines):
+    answer = 0
+    T = [0] * 90000000
+    for line in lines:
+        date, time, interval = line.split()
+        h, m, s = time.split(':')
+        s, ms = s.split('.')
+        h, m, s, ms = int(h), int(m), int(s), int(ms)
 
+        if '.' in interval:
+            interval_s, interval_ms = map(int, interval[:-1].split('.'))
+        else:
+            interval_s, interval_ms = int(interval[:-1]), 0
+        # print(h, m, s, ms, interval_s, interval_ms)
 
-def passed():
-    deadtree = []
-    for i in range(1, N + 1):
-        for j in range(1, N + 1):
-            if trees[i][j]:
-                trees[i][j].sort()
-                for t in range(len(trees[i][j])):
-                    if land[i][j] >= trees[i][j][t]:
-                        land[i][j] -= trees[i][j][t]
-                        trees[i][j][t] += 1
-                    else:
-                        deadtree.append((i, j, trees[i][j][t]))
+        end_idx = (((1000 * s) + ms) * m) * h
+        interval_idx = (1000 * interval_s) + interval_ms
+        start_idx = end_idx - interval_idx + 1
+        if start_idx < 0:
+            start_idx = 0
 
-    for r, c, dt in deadtree:
-        land[r][c] += dt // 2
+        print(start_idx, end_idx + 1000)
+        for i in range(start_idx, end_idx + 1001):
 
-    for i in range(1, N + 1):
-        for j in range(1, N + 1):
-            cnt = 0
-            if trees[i][j]:
-                for t in range(len(trees[i][j])):
-                    if not trees[i][j][t]:
-                        cnt += 1
-                        continue
-                    if not trees[i][j][t] % 5:
-                        for d in range(8):
-                            tx, ty = i + dx[d], j + dy[d]
-                            if 0 < tx < N + 1 and 0 < ty < N + 1:
-                                trees[tx][ty].append(1)
-            trees[i][j].sort()
-            for d in range(cnt):
-                trees[i][j].pop(0)
+            T[i] += 1
+            answer = max(answer, T[i])
 
-    for i in range(1, N + 1):
-        for j in range(1, N + 1):
-            if nutrients[i][j]:
-                land[i][j] += nutrients[i][j]
+    return answer
 
+solution([
+    '2016-09-15 01:00:04.002 2.0s',
+    '2016-09-15 01:00:07.000 2s'
+    ])
 
-N, M, K = map(int, input().split())
-land = [[0] * (N+1)] + [[0] + [5] * N for _ in range(N)]
-nutrients = [[0] * (N+1)] + [[0]+[*map(int, input().split())]
-                             for _ in range(N)]
-trees = [[[] for _ in range(N + 1)] for _ in range(N + 1)]
-result = 0
-for m in range(M):
-    x, y, z = map(int, input().split())
-    trees[x][y].append(z)
-
-for k in range(K):
-    passed()
-
-for i in range(1, N + 1):
-    for j in range(1, N + 1):
-        if sum(trees[i][j]) > 0:
-            result += len(trees[i][j])
-print(result)
