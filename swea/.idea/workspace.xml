@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2293606-ffcc-49d2-befb-900d73106678" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/모의 테스트/swea_2117_홈방범서비스.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/모의 테스트/swea_2382_미생물격리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D3/swea_1244_최대상금.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D5/swea_1247_최적경로.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/programmers/다트게임.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/programmers/비밀지도.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/programmers/자동완성.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../백준/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../백준/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../백준/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +47,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../백준" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test/programmers" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -57,7 +59,49 @@
       <recent name="C:\Users\multicampus\algorithm\github\swea\D2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.swea_2382_미생물격리">
+  <component name="RunManager" selected="Python.swea_1247_최적경로">
+    <configuration name="swea_1244_최대상금" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="swea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3/swea_1244_최대상금.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="swea_1247_최적경로" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="swea" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D5/swea_1247_최적경로.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="swea_2117_홈방범서비스" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,48 +144,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="swea_5250_최소비용" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="swea" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3/swea_5250_최소비용.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="swea_5648_원자소멸시뮬레이션" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="swea" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/모의 테스트" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/모의 테스트/swea_5648_원자소멸시뮬레이션.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="swea_5653_줄기세포배양" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swea" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,19 +166,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.swea_5250_최소비용" />
-      <item itemvalue="Python.swea_5648_원자소멸시뮬레이션" />
       <item itemvalue="Python.swea_5653_줄기세포배양" />
       <item itemvalue="Python.swea_2117_홈방범서비스" />
       <item itemvalue="Python.swea_2382_미생물격리" />
+      <item itemvalue="Python.swea_1244_최대상금" />
+      <item itemvalue="Python.swea_1247_최적경로" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.swea_1247_최적경로" />
+        <item itemvalue="Python.swea_1244_최대상금" />
         <item itemvalue="Python.swea_2382_미생물격리" />
         <item itemvalue="Python.swea_2117_홈방범서비스" />
         <item itemvalue="Python.swea_5653_줄기세포배양" />
-        <item itemvalue="Python.swea_5648_원자소멸시뮬레이션" />
-        <item itemvalue="Python.swea_5250_최소비용" />
       </list>
     </recent_temporary>
   </component>
@@ -210,26 +212,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="883" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583213320669" />
-    <state x="933" y="168" key="FileChooserDialogImpl" timestamp="1590038578797">
+    <state x="933" y="168" key="FileChooserDialogImpl" timestamp="1590638955165">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="933" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590038578797" />
-    <state width="748" height="153" key="GridCell.Tab.0.bottom" timestamp="1590302794032">
+    <state x="933" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590638955165" />
+    <state width="748" height="153" key="GridCell.Tab.0.bottom" timestamp="1590638329519">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="748" height="153" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590302794032" />
-    <state width="748" height="153" key="GridCell.Tab.0.center" timestamp="1590302794032">
+    <state width="748" height="153" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590638329519" />
+    <state width="748" height="153" key="GridCell.Tab.0.center" timestamp="1590638329519">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="748" height="153" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590302794032" />
-    <state width="748" height="153" key="GridCell.Tab.0.left" timestamp="1590302794032">
+    <state width="748" height="153" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590638329519" />
+    <state width="748" height="153" key="GridCell.Tab.0.left" timestamp="1590638329519">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="748" height="153" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590302794032" />
-    <state width="748" height="153" key="GridCell.Tab.0.right" timestamp="1590302794032">
+    <state width="748" height="153" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590638329519" />
+    <state width="748" height="153" key="GridCell.Tab.0.right" timestamp="1590638329519">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="748" height="153" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590302794032" />
+    <state width="748" height="153" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590638329519" />
     <state width="745" height="237" key="GridCell.Tab.1.bottom" timestamp="1583226705435">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87959c0b-acb1-4bae-b962-532b02e3b18e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../swea/모의 테스트/swea_2117_홈방범서비스.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swea/모의 테스트/swea_2382_미생물격리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swea/D3/swea_1244_최대상금.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swea/D5/swea_1247_최적경로.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/programmers/다트게임.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/programmers/비밀지도.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/programmers/자동완성.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../swea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../swea/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
