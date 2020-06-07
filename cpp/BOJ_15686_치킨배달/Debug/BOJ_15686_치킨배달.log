@@ -1,5 +1,0 @@
-﻿  소스.cpp
-C:\Users\USER\Desktop\A를 향해\백준\Project3\BOJ_15686_치킨배달\소스.cpp(35,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\USER\Desktop\A를 향해\백준\Project3\BOJ_15686_치킨배달\소스.cpp(44,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\USER\Desktop\A를 향해\백준\Project3\BOJ_15686_치킨배달\소스.cpp(46,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  BOJ_15686_치킨배달.vcxproj -> C:\Users\USER\Desktop\A를 향해\백준\Project3\Debug\BOJ_15686_치킨배달.exe
